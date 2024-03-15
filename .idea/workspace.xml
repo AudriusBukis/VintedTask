@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="690f1cb8-60ff-48cb-aa14-e41427635956" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2darKGE7nBiT8EUMRkDL0H3nBPP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "JUnit.DiscountServiceTest.executor": "Run",
+    "JUnit.FileServiceTest.executor": "Run",
+    "JUnit.FileServiceTest.testReadFile.executor": "Run",
+    "JUnit.ShippingProviderUtilsTest.executor": "Run",
+    "JUnit.ShippingProviderValidatorTest.executor": "Run",
+    "JUnit.TransactionConverterTest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/audri/OneDrive/Documents/VintedTask",
+    "onboarding.tips.debug.path": "C:/Users/audri/OneDrive/Documents/VintedTask/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.folding"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\audri\OneDrive\Documents\VintedTask\src\test\testFiles" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\audri\OneDrive\Documents\VintedTask" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.vinted.homeworktask.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinted.homeworktask.Main" />
+      <module name="VintedTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.vinted.homeworktask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscountServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VintedTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.vinted.homeworktask.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.vinted.homeworktask.service" />
+      <option name="MAIN_CLASS_NAME" value="org.vinted.homeworktask.service.DiscountServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShippingProviderUtilsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VintedTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.vinted.homeworktask.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.vinted.homeworktask.utils" />
+      <option name="MAIN_CLASS_NAME" value="org.vinted.homeworktask.utils.ShippingProviderUtilsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShippingProviderValidatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VintedTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.vinted.homeworktask.validation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.vinted.homeworktask.validation" />
+      <option name="MAIN_CLASS_NAME" value="org.vinted.homeworktask.validation.ShippingProviderValidatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransactionConverterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VintedTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.vinted.homeworktask.converter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.vinted.homeworktask.converter" />
+      <option name="MAIN_CLASS_NAME" value="org.vinted.homeworktask.converter.TransactionConverterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.TransactionConverterTest" />
+        <item itemvalue="JUnit.ShippingProviderValidatorTest" />
+        <item itemvalue="JUnit.ShippingProviderUtilsTest" />
+        <item itemvalue="JUnit.DiscountServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-temurin-21.0.2-4caba194b151-7da56cdf" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="690f1cb8-60ff-48cb-aa14-e41427635956" name="Changes" comment="" />
+      <created>1710256969530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710256969530</updated>
+    </task>
+    <servers />
+  </component>
+</project>
